@@ -1,3 +1,5 @@
+// watched pepcoding video but couldn't make it work so saw the solutioj=n from the discussions and it had the same approach just reverse order but this one worked
+
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& dict) {
