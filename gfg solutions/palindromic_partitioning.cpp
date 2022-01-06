@@ -39,6 +39,5 @@ public:
         memset(dp,-1,sizeof(dp));
         
         return solve(str,i,j);
-        
     }
 };
