@@ -16,7 +16,6 @@ class Solution
                         dp[i][j]=INT_MIN;
                     else if(j==0) 
                         dp[i][j]=0;
-                
                 }
                 else if(a[i-1]<=j)
                 {
